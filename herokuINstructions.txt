@@ -1,0 +1,20 @@
+How to upload a node/express on heroku
+
+
+Production Enviornment
+Heroku - Cloud Deployement Platform
+
+So that you can a public access to your applications
+
+https://devcenter.heroku.com/articles/deploying-nodejs
+
+You need to downlaod Heroku CLI (Command Line Interface)
+
+Procfile = Process File for Heroku
+
+
+Heroku Platform will manage
+1. Our Source Code
+2. Deployment
+
+
